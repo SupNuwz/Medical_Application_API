@@ -1,0 +1,11 @@
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\bin\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.deps.json
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\bin\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.runtimeconfig.json
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\bin\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.runtimeconfig.dev.json
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\bin\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.dll
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\obj\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.csprojAssemblyReference.cache
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\obj\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.csproj.CoreCompileInputs.cache
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\obj\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.AssemblyInfoInputs.cache
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\obj\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.AssemblyInfo.cs
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\bin\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.pdb
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\obj\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.dll
+C:\Users\Supuni\source\repos\Mainframe.Medical-App.WebAPI\Mainframe.Medical-App.WebAPI\obj\Debug\netcoreapp2.0\Mainframe.MedicalApp.webAPI.pdb
